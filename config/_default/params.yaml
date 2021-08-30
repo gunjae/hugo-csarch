@@ -7,7 +7,7 @@
 
 theme: ocean # minimal
 day_night: false
-font: native
+font: #native
 font_size: M # supported: xs, x, m, l, xl
 
 # SEO
