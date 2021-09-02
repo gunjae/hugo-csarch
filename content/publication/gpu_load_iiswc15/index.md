@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE International Parallel and Distributed Processing Symposium*"
-publication_short: "*IPDPS `18*"
+publication_short: "*IPDPS '18*"
 
 abstract: "In graphics processing units (GPUs), memory access latency is one of the most critical performance hurdles. Several warp schedulers and memory prefetching algorithms have been proposed to avoid the long memory access latency. Prior application characterization studies shed light on the interaction between applications, GPU micro architecture and memory subsystem behavior. Most of these studies, however, only present aggregate statistics on how memory system behaves over the entire application run. In particular, they do not consider how individual load instructions in a program contribute to the aggregate memory system behavior. The analysis presented in this paper shows that there are two distinct classes of load instructions, categorized as deterministic and non-deterministic loads. Using a combination of profiling data from a real GPU card and cycle accurate simulation data we show that there is a significant performance impact disparity when executing these two types of loads. We discuss and suggest several approaches to treat these two load categories differently within the GPU micro architecture for optimizing memory system performance."
 

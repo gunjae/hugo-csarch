@@ -52,7 +52,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Student
+- Master Students
 ---
 
 Boyoung Park is a graduate student pursuing a master's degree in the [Department of Computer Science and Engineering](http://cs.korea.ac.kr) at [Korea University](http://korea.edu). Her research interest lies in near data processing and memory/storage systems. Her current research focuses on accelerating genomic analysis accommodating near data processing on storage platforms.

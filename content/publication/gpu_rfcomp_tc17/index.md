@@ -7,9 +7,6 @@ authors:
 - Hyeran Jeon
 - Won Woo Ro
 - Murali Annavaram
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2017-05-01T00:00:00Z"
 doi: "10.1109/TC.2016.2619348"
 

@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Symposium on Circuits and Systems*"
-publication_short: "*ISCAS `06*"
+publication_short: "*ISCAS '06*"
 
 abstract: "In this paper, a PRML read channel that supports multiple optical disc formats, i.e. CD, DVD and BD is presented. The read channel includes digital timing recovery that generates timing matched data by interpolation, which can acquire high controllability and stability with small hardware. PRML bit detection is applied to the read channel in order to reduce bit errors for severe channel condition such as BD and high speed DVD. Also, PR-level of PRML is adaptively controlled to compensate asymmetry and signal level shift due to defects. To support high operating speed, the read channel is designed in a 2times-parallel processing. The read channel uses a 115 MHz main clock, and can support up to 8times DVD, equivalent to a channel rate of 210 MHz"
 

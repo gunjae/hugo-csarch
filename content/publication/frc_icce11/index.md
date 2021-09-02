@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE International Conference on Consumer Electronics*"
-publication_short: "*ICCE `11*"
+publication_short: "*ICCE '11*"
 
 abstract: "In this paper, we present complementary motion estimation algorithm for motion compensated frame rate up-conversion. The proposed algorithm combines forward and backward motion estimation results to make up for the weakness of each motion estimation method. It also allocates true motion vectors in occlusion regions by using the temporal relations of the forward and backward motion estimation. Thus, we reduce artifacts by false motion vectors near occlusion regions in a compensated frame."
 
